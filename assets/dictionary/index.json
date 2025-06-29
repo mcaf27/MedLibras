@@ -1,0 +1,199 @@
+{
+    "01": [
+        { "text": "AIDS", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/aidsSm_Prog001.mp4" },
+        { "text": "Ar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/arSm_Prog001.mp4" },
+        { "text": "Defecar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/defecarSm_Prog001.mp4" },
+        { "text": "Faxina", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/faxinaSm_Prog001.mp4" },
+        { "text": "Fezes", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/fezesSm_Prog001.mp4" },
+        { "text": "Mastigar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/mastigarSm_Prog001.mp4" }
+    ],
+    "02": [
+        { "text": "Agressão", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/agredirSm_Prog001.mp4" },
+        { "text": "Respirar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/respirarSm_Prog001.mp4" },
+        { "text": "Remédio", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/remedioSm_Prog001.mp4" },
+        { "text": "Pus", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/pusSm_Prog001.mp4" },
+        { "text": "Pesado", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/pesadoSm_Prog001.mp4" },
+        { "text": "Palpitar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/palpitar1Sm_Prog001.mp4" },
+        { "text": "Morder", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/morderSm_Prog001.mp4" },
+        { "text": "Leite", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/leiteSm_Prog001.mp4" },
+        { "text": "Faxineiro", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/faxineiroSm_Prog001.mp4" },
+        { "text": "Exercício", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/exercicio2Sm_Prog001.mp4" },
+        { "text": "Escuro", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/escuroSm_Prog001.mp4" },
+        { "text": "Depressão", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/depressaoSm_Prog001.mp4" }
+    ],
+    "07": [
+        { "text": "Aperto", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/apertarSm_Prog001.mp4" },
+        { "text": "Beber/bebida", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/bebidaSm_Prog001.mp4" },
+        { "text": "Diarreia", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/diarreiaSm_Prog001.mp4" },
+        { "text": "Jejum", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/jejumSm_Prog001.mp4" },
+        { "text": "Mal", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/malSm_Prog001.mp4" }
+    ],
+    "08a": [
+        { "text": "Água", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/aguaSm_Prog001.mp4" }
+    ],
+    "10": [
+        { "text": "Vacina", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/vacinaSm_Prog001.mp4" }
+    ],
+    "12": [
+        { "text": "Amarelo", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/amareloSm_Prog001.mp4" }
+    ],
+    "14": [
+        { "text": "Ácido", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/acidoSm_Prog001.mp4" },
+        { "text": "Profundo", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/profundoSm_Prog001.mp4" },
+        { "text": "Nariz", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/narizSm_Prog001.mp4" },
+        { "text": "Diabetes", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/diabeteSm_Prog001.mp4" },
+        { "text": "Lacrimejar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/lacrimejarSm_Prog001.mp4" },
+        { "text": "Lembrar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/lembrar2Sm_Prog001.mp4" },
+        { "text": "Médico", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/medicoSm_Prog001.mp4" },
+        { "text": "Pimenta", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/pimentaSm_Prog001.mp4" },
+        { "text": "Suor", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/suorSm_Prog001.mp4" },
+        { "text": "Todo dia", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/todo_diaSm_Prog001.mp4" },
+        { "text": "Glicose", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/glicoseSm_Prog001.mp4" },
+        { "text": "Vermelho", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/vermelhoSm_Prog001.mp4" }
+    ],
+    "15": [
+        { "text": "Asma", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/asmaSm_Prog001.mp4" },
+        { "text": "Escorpião", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/escorpiaoSm_Prog001.mp4" },
+        { "text": "Sangue", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/sangueSm_Prog001.mp4" }
+    ],
+    "16": [
+        { "text": "Barulho", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/barulhoSm_Prog001.mp4" },
+        { "text": "Calafrio", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/calafrioSm_Prog001.mp4" }
+    ],
+    "17": [
+        { "text": "Amendoim", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/amendoimSm_Prog001.mp4" },
+        { "text": "Arma", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/armaSm_Prog001.mp4" }
+    ],
+    "18a": [
+        { "text": "Posição", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/posicaoSm_Prog001.mp4" }
+    ],
+    "19": [
+        { "text": "Gato", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/gatoSm_Prog001.mp4" },
+        { "text": "Receita", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/receita2Sm_Prog001.mp4" }
+    ],
+    "21": [
+        { "text": "Gripe", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/gripeSm_Prog001.mp4" }
+    ],
+    "23": [
+        { "text": "Picar (seringa)", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/picar3Sm_Prog001.mp4" }
+    ],
+    "24": [
+        { "text": "Cigarro", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/cigarroSm_Prog001.mp4" },
+        { "text": "Cirurgia", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/cirurgiaSm_Prog001.mp4" },
+        { "text": "Trauma", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/traumaSm_Prog001.mp4" }
+    ],
+    "25": [
+        { "text": "Relatório", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/relatorioSm_Prog001.mp4" }
+    ],
+    "26": [
+        { "text": "Variável", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/variavelSm_Prog001.mp4" }
+    ],
+    "27": [
+        { "text": "Andar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/andar6Sm_Prog001.mp4" },
+        { "text": "Deitar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/deitar1Sm_Prog001.mp4" },
+        { "text": "Sentar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/sentarSm_Prog001.mp4" }
+    ],
+    "28": [
+        { "text": "Fumar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/fumarSm_Prog001.mp4" }
+    ],
+    "29a": [
+        { "text": "Câncer", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/cancerSm_Prog001.mp4" },
+        { "text": "Exame", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/exame1Sm_Prog001.mp4" }
+    ],
+    "31": [
+        { "text": "Cadeira", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/cadeiraSm_Prog001.mp4" }
+    ],
+    "32": [
+        { "text": "Deitar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/deitar2Sm_Prog001.mp4" },
+        { "text": "Fixo", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/fixoSm_Prog001.mp4" },
+        { "text": "Inseto", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/insetoSm_Prog001.mp4" },
+        { "text": "Verde", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/verdeSm_Prog001.mp4" },
+        { "text": "Vinho", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/vinhoSm_Prog001.mp4" }
+    ],
+    "33": [
+        { "text": "Alergia", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/alergia1Sm_Prog001.mp4" }
+    ],
+    "34": [
+        { "text": "Catarro", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/catarroSm_Prog001.mp4" }
+    ],
+    "37a": [
+        { "text": "Aguardente", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/aguardenteSm_Prog001.mp4" },
+        { "text": "Urina", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/urinaSm_Prog001.mp4" }
+    ],
+    "40": [
+        { "text": "Choque", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/choque2Sm_Prog001.mp4" },
+        { "text": "Obeso", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/obesoSm_Prog001.mp4" }
+    ],
+    "42": [
+        { "text": "Ovo", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/ovo2Sm_Prog001.mp4" }
+    ],
+    "44": [
+        { "text": "Álcool", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/alcoolSm_Prog001.mp4" },
+        { "text": "Efervescente", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/efervescenteSm_Prog001.mp4" }
+    ],
+    "45": [
+        { "text": "Farinha de trigo", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/farinha_de_trigoSm_Prog001.mp4" }
+    ],
+    "46a": [
+        { "text": "Inchaço", "src": "" },
+        { "text": "Coceira", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/coceiraSm_Prog001.mp4" },
+        { "text": "Seco", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/secoSm_Prog001.mp4" },
+        { "text": "Cachorro", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/cachorroSm_Prog001.mp4" }
+    ],
+    "47": [
+        { "text": "Cogumelo", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/cogumeloSm_Prog001.mp4" },
+        { "text": "Enxaqueca", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/enxaquecaSm_Prog001.mp4" },
+        { "text": "Espirrar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/espirrarSm_Prog001.mp4" },
+        { "text": "Espuma", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/espumaSm_Prog001.mp4" },
+        { "text": "Fritar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/fritar2Sm_Prog001.mp4" },
+        { "text": "Inchar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/incharSm_Prog001.mp4" },
+        { "text": "Queimar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/queimarSm_Prog001.mp4" },
+        { "text": "Secar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/secarSm_Prog001.mp4" }
+    ],
+    "50": [
+        { "text": "Arder", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/arder1Sm_Prog001.mp4" },
+        { "text": "Quente", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/quenteSm_Prog001.mp4" },
+        { "text": "Queimadura", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/queimaduraSm_Prog001.mp4" }
+    ],
+    "51a": [
+        { "text": "Cerveja", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/cervejaSm_Prog001.mp4" }
+    ],
+    "52": [
+        { "text": "Catarro", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/catarroSm_Prog001.mp4" },
+        { "text": "Engolir", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/engolirSm_Prog001.mp4" }
+    ],
+    "53a": [
+        { "text": "Comer", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/comerSm_Prog001.mp4" },
+        { "text": "Pele", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/peleSm_Prog001.mp4" }
+    ],
+    "54": [
+        { "text": "Dor", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/dorSm_Prog001.mp4" },
+        { "text": "Flor (pólen)", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/florSm_Prog001.mp4" }
+    ],
+    "57": [
+        { "text": "Menstruar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/menstruarSm_Prog001.mp4" }
+    ],
+    "59a": [
+        { "text": "Uísque", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/uisqueSm_Prog001.mp4" },
+        { "text": "Morro", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/morroSm_Prog001.mp4" }
+    ],
+    "61": [
+        { "text": "Desmaio", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/desmaiarSm_Prog001.mp4" },
+        { "text": "Febre", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/febreSm_Prog001.mp4" },
+        { "text": "Tonteira (vertigem)", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/vertigemSm_Prog001.mp4" }
+    ],
+    "63": [
+        { "text": "Açúcar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/acucarSm_Prog001.mp4" },
+        { "text": "Parto", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/nascimentoSm_Prog001.mp4" },
+        { "text": "Suicidar", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/suicidarSm_Prog001.mp4" }
+    ],
+    "64": [
+        { "text": "Brilho", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/brilhoSm_Prog001.mp4" },
+        { "text": "Claro (luminosidade)", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/claro1Sm_Prog001.mp4" },
+        { "text": "Delírio (confusão)", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/delirioSm_Prog001.mp4" },
+        { "text": "Limpeza", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/limpezaSm_Prog001.mp4" },
+        { "text": "Náusea", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/nauseaSm_Prog001.mp4" },
+        { "text": "Sangramento", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/sangramentoSm_Prog001.mp4" },
+        { "text": "Suor", "src": "https://www.ines.gov.br/dicionario-de-libras/public/media/palavras/videos/suorSm_Prog001.mp4" }
+    ]
+}

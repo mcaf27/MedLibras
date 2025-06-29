@@ -1,0 +1,38 @@
+[
+    { "id": "1", "text": "Engolir" },
+    { "id": "2", "text": "Mastigar" },
+    { "id": "3", "text": "Apertar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143412/jsu12r0ph8eukfjvrver.mp4" },
+    { "id": "4", "text": "Período menstrual" },
+    { "id": "5", "text": "Espirrar" },
+    { "id": "6", "text": "Ficar em repouso", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143411/pnbgvubn3lsptmxwgzuv.mp4" },
+    { 
+        "id": "7", 
+        "text": "Comer ou beber",
+        "subquestions": [
+            { "id": "7-1", "text": "Comer alimentos gordurosos" },
+            { "id": "7-2", "text": "Alimentos ácidos ou picantes" },
+            { "id": "7-3", "text": "Beber bebidas alcoólicas" }
+        ]
+    },
+    { "id": "8", "text": "Estresse" },
+    { "id": "9", "text": "A posição do corpo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143413/clxkgpxcfspde5tcha5r.mp4" },
+    { "id": "10", "text": "Tomar banho", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143412/gngxvx7lixntf1ynrzg0.mp4" },
+    { 
+        "id": "11", 
+        "text": "Fazer esforço físico",
+        "subquestions": [
+            { "id": "11-1", "text": "Andar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143412/uts1rzue8wycvfnbages.mp4" },
+            { "id": "11-2", "text": "Subir escada", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143413/cjlsjxtgusj9fn1egtct.mp4" },
+            { "id": "11-3", "text": "Subir morro", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143413/pviutlwt6skoe3bsfpby.mp4" }
+        ]
+    },
+    { "id": "12", "text": "Mexer", "widget": "HUMAN_BODY" },
+    { 
+        "id": "13", 
+        "text": "Sensações",
+        "subquestions": [
+            { "id": "13-1", "text": "Locais com luminosidade excessiva" },
+            { "id": "13-2", "text": "Locais com barulho" }
+        ]
+    }
+]

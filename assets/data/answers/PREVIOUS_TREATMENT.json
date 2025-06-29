@@ -1,0 +1,26 @@
+[
+    { 
+        "id": "1", 
+        "text": "Sim",
+        "subquestions": [
+            { "id": "1-1", "text": "Diabetes", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143413/mvyumqb4nee8lcheljtx.mp4" },
+            { "id": "1-2", "text": "Infarto", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143414/yhpybcfhldunzofqpfll.mp4" },
+            { "id": "1-3", "text": "Arritmia", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143414/hnmub1quxdq6qkvalzzq.mp4" },
+            { "id": "1-4", "text": "Pressão alta", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143415/bff8e4sypcy3bovcv9g4.mp4" },
+            { "id": "1-5", "text": "Asma", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143415/m439ubbgvonkaifyavem.mp4" },
+            { "id": "1-6", "text": "AIDS", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143415/q6f72uhgjou089fgwsak.mp4" },
+            { "id": "1-7", "text": "Depressão", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143416/ltq3n70wr4lr2e9pef5b.mp4" },
+            { "id": "1-8", "text": "Ansiedade", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143417/talbiqz1ort66mmhzjgs.mp4" },
+            { "id": "1-9", "text": "AVC", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143416/k5dc4mdmsoehhrsee3tp.mp4" },
+            { "id": "1-10", "text": "Tuberculose", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143417/lipivpljjl6z8xsgrpuf.mp4" },
+            { "id": "1-11", "text": "Obesidade", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143417/wvyzysvkuh4ir6acq8ns.mp4" },
+            { "id": "1-12", "text": "Cirrose", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143418/euznfh7casnqpapbavp8.mp4" },
+            { "id": "1-13", "text": "Câncer", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143418/tvlssfgqou0huvtxga5z.mp4" },
+            { "id": "1-14", "text": "Insuficiência renal", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143419/aekhmczd3bphnl3dnctm.mp4" },
+            { "id": "1-15", "text": "Hipotireoidismo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143419/mefpihmjzoioz8ppswbq.mp4" },
+            { "id": "1-16", "text": "Alcoolismo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143419/niz88l4m4zxdzjlimog2.mp4" },
+            { "id": "1-17", "text": "Tabagismo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143420/tvob4vjpqrmokbqnaheq.mp4" }
+        ]
+    },
+    { "id": "2", "text": "Não" }
+]

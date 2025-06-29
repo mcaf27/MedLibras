@@ -1,0 +1,25 @@
+[
+    { "id": "1", "text": "Em aperto" },
+    { "id": "2", "text": "Em peso" },
+    { "id": "3", "text": "Em queimação" },
+    { "id": "4", "text": "Em pontada" },
+    { "id": "5", "text": "Pulsátil" },
+    { "id": "6", "text": "Profunda" },
+    { "id": "7", "text": "Superficial" },
+    { "id": "8", "text": "Lancinante" },
+    { "id": "9", "text": "Em choque" },
+    { 
+        "id": "10", 
+        "text": "Cólica",
+        "subquestions": [
+            { 
+                "id": "10-1", 
+                "text": "Menstrual?",
+                "subquestions": [
+                    { "id": "10-1-1", "text": "Sim" },
+                    { "id": "10-1-2", "text": "Não" }
+                ]
+            }
+        ]
+    }
+]

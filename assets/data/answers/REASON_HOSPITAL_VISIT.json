@@ -1,0 +1,167 @@
+[
+    {
+        "id": "1",
+        "text": "Problemas na cabeça",
+        "subquestions": [
+            { "id": "1-1", "text": "Convulsão", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143420/zhx59lk5c0nkvy2b0bqm.mp4" },
+            { "id": "1-2", "text": "Tonteira", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143421/xa2knavrlsb21jcscvle.mp4" },
+            { "id": "1-3", "text": "Alteração do estado mental", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143421/admhau4hcpo0knwwiwhq.mp4" },
+            { "id": "1-4", "text": "Confusão", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143423/sm2bcwxdke7sxxirvrrp.mp4" },
+            { "id": "1-5", "text": "Alteração comportamental", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143422/rx9grlsklhaovcowug0f.mp4" },
+            { "id": "1-6", "text": "Desmaio", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143423/wyte0cjo9z3ifkgvjx5t.mp4" },
+            { "id": "1-7", "text": "Trauma psicológico", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143423/ff6j1borooa6bhcvhbci.mp4" }
+        ]
+    },
+    { "id": "2", "text": "Palpitação", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143423/fzse9rmleroqhfcfnsyl.mp4" },
+    { "id": "3", "text": "Náusea", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143424/c8fm6uhwuyilt8x21rni.mp4" },
+    { "id": "4", "text": "Inchaço", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143424/ynqsn9xeuzzksd1p5rh9.mp4" },
+    { "id": "5", "text": "Excesso de suor", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143426/e3mi6df3wulxfm6bsuvy.mp4" },
+    { "id": "6", "text": "Calafrios", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143425/ysbqa1uzhiueuz7ic5bf.mp4" },
+    { "id": "7", "text": "Glicemia alterada", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143425/ksftxjftijpejnclyflf.mp4" },
+    { "id": "8", "text": "Problemas no ouvido", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143426/popvbct6aghvpkm329ks.mp4" },
+    { "id": "9", "text": "Tentativa de suicídio", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143427/bnrmz0sgoans45on5icm.mp4" },
+    { "id": "11", "text": "Pressão arterial alterada", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143426/bkuljt3jhbtthcjg5p1z.mp4" },
+    { "id": "12", "text": "Problemas nos olhos", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143428/h8ki7mbdmo5s9juyvbbz.mp4" },
+    {
+        "id": "13",
+        "text": "Dor",
+        "subquestions": [
+            { "id": "13-1", "text": "Onde é a dor?", "widget": "HUMAN_BODY" }
+        ]
+    },
+    {
+        "id": "14",
+        "text": "Problemas para respirar",
+        "subquestions": [
+            { "id": "14-1", "text": "Dificuldade para respirar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143427/ghrthtesjkzajdav7fmp.mp4" },
+            { "id": "14-2", "text": "Nariz escorrendo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143428/obkwzxivck40ukg9pidl.mp4" },
+            { "id": "14-3", "text": "Falta de ar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143428/q6hi3ix3q8slmjdcvdr5.mp4" },
+            { "id": "14-4", "text": "Obstrução nasal", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143428/g8ijmtbo6wm90zlbuq7w.mp4" }
+        ]
+    },
+    {
+        "id": "15",
+        "text": "Vômito",
+        "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143428/kbi7pszszurlx2ngxa8c.mp4",
+        "subquestions": [
+            { 
+                "id": "15-1", 
+                "text": "Com sangue?", 
+                "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143430/n4je0rx6afijsuhoudmc.mp4",
+                "subquestions": [
+                    { "id": "15-1-1", "text": "Sim", "src": "" },
+                    { "id": "15-1-2", "text": "Não", "src": "" }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "text": "Fezes alteradas",
+        "subquestions": [
+            { "id": "16-1", "text": "Diarreia", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143430/mnpfpav4getqy88dowam.mp4" },
+            { "id": "16-2", "text": "Fezes escurecidas", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143430/krlqh4ks10e3tdedw9ld.mp4" },
+            { "id": "16-3", "text": "Sangramento nas fezes", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143430/belpdimucrwsdkui0ika.mp4" },
+            { "id": "16-4", "text": "Com restos de comida", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143431/wmjc9mqov2brodzct48a.mp4" }
+        ]
+    },
+    {
+        "id": "17",
+        "text": "Alterações na pele",
+        "subquestions": [
+            { "id": "17-1", "text": "Feridas na pele", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143432/uofciktej4ojrm97922y.mp4" },
+            { "id": "17-2", "text": "Manchas na pele", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143432/qohrfi6qr6ojwmafie6j.mp4" },
+            { "id": "17-3", "text": "Pele com manchas vermelhas", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143432/rjfjpfclycowz4s5nhwy.mp4" },
+            { "id": "17-4", "text": "Coceira", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143432/vqba0itnl3egzdxoalns.mp4" },
+            { "id": "17-5", "text": "Queimaduras", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143432/mk3hiybbgqmkj13fbwnx.mp4" }
+        ]
+    },
+    {
+        "id": "18",
+        "text": "Febre",
+        "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143433/gzuym3xwgvogjthzqztn.mp4",
+        "subquestions": [
+            { "id": "18-1", "text": "Temperatura?", "widget": "SLIDER_[35~45]" }
+        ]
+    },
+    {
+        "id": "19",
+        "text": "Tosse",
+        "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143433/jyxitn978qrjlx7lakwa.mp4",
+        "subquestions": [
+            { 
+                "id": "19-1", 
+                "text": "Como é a tosse?",
+                "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143435/ok1fne1gyakfmz8n3vtw.mp4",
+                "subquestions": [
+                    { "id": "19-1-1", "text": "Tosse seca", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143434/eqs9p0dmywxsyyctdt9t.mp4" },
+                    {
+                        "id": "19-1-2", 
+                        "text": "Tosse com catarro",
+                        "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143435/aosf0dvgk3i9b26shyop.mp4",
+                        "subquestions": [
+                            { "id": "19-1-2-1", "text": "Catarro branco", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143435/nrug2vor2yqeshkc5qx7.mp4" },
+                            { "id": "19-1-2-2", "text": "Catarro amarelado", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143435/bava5o2ga8qerhl2fcvz.mp4" },
+                            { "id": "19-1-2-3", "text": "Catarro esverdeado", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143435/e1yyokm7uihjxolfcdnd.mp4" },
+                            { "id": "19-1-2-4", "text": "Catarro transparente", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143436/i3bpkiqyvc8rcdxatywu.mp4" },
+                            { "id": "19-1-2-5", "text": "Catarro vermelho", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143436/czys8zdln3mzxrcmfe6b.mp4" },
+                            { "id": "19-1-2-6", "text": "Catarro com sangue", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143437/zkzj4rvu0mojrlwlwazj.mp4" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "text": "Problemas com animais",
+        "subquestions": [
+            { "id": "20-1", "text": "Mordida de cachorro", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143437/jsmip2boepgk4cy48c98.mp4" },
+            { "id": "20-2", "text": "Mordida de gato", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143437/j87gj5uda5p1wztcgwwr.mp4" },
+            { "id": "20-3", "text": "Picada de cobra", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143437/abidwr5fbqin32kctwol.mp4" },
+            { "id": "20-4", "text": "Picada de escorpião", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143439/rq7gcul8amhe4byjxcpg.mp4" }
+        ]
+    },
+    {
+        "id": "21",
+        "text": "Problemas ao urinar",
+        "subquestions": [
+            { "id": "21-1", "text": "Ardor para urinar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143440/gfwlcevbkyx3mftrbaza.mp4" },
+            { "id": "21-2", "text": "Urina solta", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143439/k2qgngreorhc4braqvwm.mp4" },
+            { "id": "21-3", "text": "Urinando pouco", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143440/t1dw7mzitfq7htjukfpb.mp4" },
+            { "id": "21-4", "text": "Urinando muito", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143439/hq8cq7ssqxig1lqbtcu3.mp4" },
+            { "id": "21-5", "text": "Urina escura", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143440/foyf9awn3arqw7cet4gs.mp4" },
+            { "id": "21-6", "text": "Urina com espuma", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143441/wbyhm8pf2tvwxeir03go.mp4" },
+            { "id": "21-7", "text": "Sangue na urina" }
+        ]
+    },
+    {
+        "id": "22",
+        "text": "Sangramentos",
+        "subquestions": [
+            { "id": "22-1", "text": "Sangramento pela boca", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143441/dfb8rmc0fhl8mnu9gusw.mp4" },
+            { "id": "22-2", "text": "Sangramento pelo nariz", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143443/n8ae2wl3ist3itz3hi3k.mp4" },
+            { "id": "22-3", "text": "Sangramento nas fezes", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143442/jqtgg3ezpnydkeakqfrk.mp4" },
+            { "id": "22-4", "text": "Sangue na urina", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143442/qkwtzegzcy7elpef41nl.mp4" },
+            { "id": "22-5", "text": "Sangramento vaginal", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143444/blbk78onv0vzgvxslikg.mp4" }
+        ]
+    },
+    {
+        "id": "23",
+        "text": "Agressão",
+        "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143443/oxok7inidlopj19785lv.mp4",
+        "subquestions": [
+            { "id": "23-1", "text": "Trauma físico", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143443/nvin6bnrtrobaalsjejp.mp4" },
+            { "id": "23-2", "text": "Lesão por arma branca", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143445/x5hmyudfxkxd4ds1ewdw.mp4" },
+            { "id": "23-3", "text": "Lesão por arma de fogo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143444/m0qofvjojht2fx5v8rqb.mp4" }
+        ]
+    },
+    {
+        "id": "24",
+        "text": "Parto",
+        "subquestions": [
+            { "id": "24-1", "text": "Iminência de trabalho de parto", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143447/ynxqkw9h5prf03mstgqh.mp4" },
+            { "id": "24-2", "text": "Trabalho de parto ativo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143445/txm5pwbpcghloy9ma1hk.mp4" }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    { 
+        "id": "1",
+        "text": "Sim",
+        "subquestions": [
+            { "id": "1-1", "text": "Ácaros", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143403/zobznkljchylombp7itc.mp4" },
+            { "id": "1-2", "text": "Fungos", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143402/rb8u22vryasprgcbycll.mp4" },
+            { "id": "1-3", "text": "Pólen", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143404/zzprbuw6jgsqcbmbhax8.mp4" },
+            { "id": "1-4", "text": "Cachorro", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143403/d4f0jfsgxnca76v4bur8.mp4" },
+            { "id": "1-5", "text": "Gato", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143403/glmfgvyw659hm3bkbdzp.mp4" },
+            { "id": "1-6", "text": "Picada de insetos", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143405/p7pg0yvqwrdqj6hizxex.mp4" },
+            { "id": "1-7", "text": "Látex", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143404/zlp8dg6iuawdnjfhp1vw.mp4" },
+            { "id": "1-8", "text": "Leite", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143404/mxatuwm4sh5phbynewut.mp4" },
+            { "id": "1-9", "text": "Ovo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143405/jw2udubqaghckfj3njcb.mp4" },
+            { "id": "1-10", "text": "Frutos do mar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143405/iulqzsasrkhe9l3vx8qj.mp4" },
+            { "id": "1-11", "text": "Trigo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143407/t5khtqadhsceb0mbyfji.mp4" },
+            { "id": "1-12", "text": "Amendoim", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143405/ofiwn4llceosfwmwxyzw.mp4" },
+            { "id": "1-13", "text": "Medicamentos", "widget": "MEDICATION_LIST" }
+        ]
+    },
+    { "id": "2", "text": "Não", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143405/lnypl25mkze6oydi9hzo.mp4" }
+]

@@ -1,0 +1,15 @@
+[
+    { 
+        "id": "1",
+        "text": "Sim",
+        "subquestions": [
+            { 
+                "id": "1-1", 
+                "text": "Quantas doses?", 
+                "widget": "SLIDER_[1-3]",
+                "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143407/vbl77lwsrww6w0wlqxvf.mp4"
+            }
+        ]
+    },
+    { "id": "2", "text": "Não" }
+]

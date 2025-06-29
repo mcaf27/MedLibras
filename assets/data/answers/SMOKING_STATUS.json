@@ -1,0 +1,16 @@
+[
+    { 
+        "id": "1", 
+        "text": "Sim",
+        "subquestions": [
+            { "id": "1-1", "text": "Há quanto tempo?", "widget": "CALENDAR" },
+            { 
+                "id": "1-2", 
+                "text": "Quantos cigarros por dia?", 
+                "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143448/cy6jsmbt5sijf73hjesa.mp4", 
+                "widget": "SLIDER_[1-40]" 
+            }
+        ]
+    },
+    { "id": "2", "text": "Não" }
+]

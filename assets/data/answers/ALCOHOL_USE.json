@@ -1,0 +1,25 @@
+[
+    { 
+        "id": "1",
+        "text": "Sim",
+        "subquestions": [
+            { 
+                "id": "1-1", 
+                "text": "Quais bebidas?",
+                "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143398/rcwz4hrt5glf16svmbsx.mp4",
+                "subquestions": [
+                    { "id": "1-1-1", "text": "Cerveja", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143398/vtjul2l2d8cskuvtbex4.mp4" },
+                    { "id": "1-1-2", "text": "Vinho", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143399/av6l3ciafduactgggpg0.mp4" },
+                    { "id": "1-1-3", "text": "Licor", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143399/xmm9ojkscnof7xhcieds.mp4" },
+                    { "id": "1-1-4", "text": "Vodca", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143398/likvnxy9ia66fdinhna0.mp4" },
+                    { "id": "1-1-5", "text": "Uísque", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143399/lov3us1qbg5ircfoyvi4.mp4" },
+                    { "id": "1-1-6", "text": "Cachaça", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143399/sqwxgrmklxandndfi2l5.mp4" },
+                    { "id": "1-1-7", "text": "Gin", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143399/ck2encvvgiv2xrcelmxt.mp4" },
+                    { "id": "1-1-8", "text": "Champanhe", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143400/tdt3fnzffmx7hehr5ll3.mp4" }
+                ]
+            },
+            { "id": "1-2", "text": "Quantas bebidas?", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143400/gfqgyabxukufqowbljkb.mp4", "widget": "COUNTER_[1-10]" }
+        ]
+    },
+    { "id": "2", "text": "Não" }
+]

@@ -1,0 +1,17 @@
+[
+    { "id": "1", "text": "Foi uma vez", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143446/gdfujjg2ouqag7acawnv.mp4" },
+    { 
+        "id": "2", 
+        "text": "Foram vários episódios",
+        "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143447/ywac0koc1lxam3szcfmf.mp4",
+        "subquestions": [
+            { 
+                "id": "2-1", 
+                "text": "Qual a frequência?", 
+                "widget": "SLIDER_[1-10]",
+                "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143447/kwsqow4kpdodjgiwvxq5.mp4"
+            }
+        ]
+    },
+    { "id": "3", "text": "Constante", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143446/nv25uvqe83bmkbtn8g7c.mp4" }
+]
