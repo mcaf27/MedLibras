@@ -2,6 +2,7 @@
     { 
         "id": "1", 
         "text": "Sim",
+        "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245108/87._Sim_mdg9nr.mp4",
         "subquestions": [
             { "id": "1-1", "text": "Diabetes", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143413/mvyumqb4nee8lcheljtx.mp4" },
             { "id": "1-2", "text": "Infarto", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143414/yhpybcfhldunzofqpfll.mp4" },
@@ -22,5 +23,5 @@
             { "id": "1-17", "text": "Tabagismo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143420/tvob4vjpqrmokbqnaheq.mp4" }
         ]
     },
-    { "id": "2", "text": "Não" }
+    { "id": "2", "text": "Não", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245109/88._N%C3%A3o_bn3d3t.mp4" }
 ]

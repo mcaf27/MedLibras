@@ -1,20 +1,20 @@
 [
-    { "id": "1", "text": "Engolir" },
-    { "id": "2", "text": "Mastigar" },
+    { "id": "1", "text": "Engolir", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247788/135._Engolir_oslt61.mp4" },
+    { "id": "2", "text": "Mastigar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247799/134._Mastigar_y9sgji.mp4" },
     { "id": "3", "text": "Apertar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143412/jsu12r0ph8eukfjvrver.mp4" },
-    { "id": "4", "text": "Período menstrual" },
-    { "id": "5", "text": "Espirrar" },
+    { "id": "4", "text": "Período menstrual", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247811/131._Per%C3%ADodo_menstrual_xnsisp.mp4" },
+    { "id": "5", "text": "Espirrar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247823/132._Espirrar_f1ux60.mp4" },
     { "id": "6", "text": "Ficar em repouso", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143411/pnbgvubn3lsptmxwgzuv.mp4" },
     { 
         "id": "7", 
         "text": "Comer ou beber",
         "subquestions": [
-            { "id": "7-1", "text": "Comer alimentos gordurosos" },
-            { "id": "7-2", "text": "Alimentos ácidos ou picantes" },
-            { "id": "7-3", "text": "Beber bebidas alcoólicas" }
+            { "id": "7-1", "text": "Comer alimentos gordurosos", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247835/127._Comer_alimentos_gordurosos_jyg8nn.mp4" },
+            { "id": "7-2", "text": "Alimentos ácidos ou picantes", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247851/125._Comer_alimentos_%C3%A1cidos_e_picantes_c9cwzt.mp4" },
+            { "id": "7-3", "text": "Beber bebidas alcoólicas", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247865/126._Beber_bebidas_alco%C3%B3licas_hcndlm.mp4" }
         ]
     },
-    { "id": "8", "text": "Estresse" },
+    { "id": "8", "text": "Estresse", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247871/137._Estresse_ls803f.mp4" },
     { "id": "9", "text": "A posição do corpo", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143413/clxkgpxcfspde5tcha5r.mp4" },
     { "id": "10", "text": "Tomar banho", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751143412/gngxvx7lixntf1ynrzg0.mp4" },
     { 
@@ -31,8 +31,8 @@
         "id": "13", 
         "text": "Sensações",
         "subquestions": [
-            { "id": "13-1", "text": "Locais com luminosidade excessiva" },
-            { "id": "13-2", "text": "Locais com barulho" }
+            { "id": "13-1", "text": "Locais com luminosidade excessiva", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247888/128._Locais_com_barulho_txhbtg.mp4" },
+            { "id": "13-2", "text": "Locais com barulho", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247888/128._Locais_com_barulho_txhbtg.mp4" }
         ]
     }
 ]

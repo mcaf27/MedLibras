@@ -1,4 +1,11 @@
 [
-    { "id": "1", "text": "Sim", "widget": "MEDICATION_LIST" },
-    { "id": "2", "text": "Não" }
+    { 
+        "id": "1", 
+        "text": "Sim", 
+        "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245108/87._Sim_mdg9nr.mp4",
+        "subquestions": [
+            { "widget": "MEDICATION_LIST" }
+        ]
+    },
+    { "id": "2", "text": "Não", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245109/88._N%C3%A3o_bn3d3t.mp4" }
 ]

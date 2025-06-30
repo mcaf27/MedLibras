@@ -1,23 +1,25 @@
 [
-    { "id": "1", "text": "Em aperto" },
-    { "id": "2", "text": "Em peso" },
-    { "id": "3", "text": "Em queimação" },
-    { "id": "4", "text": "Em pontada" },
-    { "id": "5", "text": "Pulsátil" },
-    { "id": "6", "text": "Profunda" },
-    { "id": "7", "text": "Superficial" },
-    { "id": "8", "text": "Lancinante" },
-    { "id": "9", "text": "Em choque" },
+    { "id": "1", "text": "Em aperto", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247309/110._Dor_em_aperto_qfev2y.mp4" },
+    { "id": "2", "text": "Em peso", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247312/111._Dor_em_peso_r2if5x.mp4" },
+    { "id": "3", "text": "Em queimação", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247319/112._Dor_em_queima%C3%A7%C3%A3o_xcdfhe.mp4" },
+    { "id": "4", "text": "Em pontada", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247321/113._Dor_em_pontada_ijfnhr.mp4" },
+    { "id": "5", "text": "Pulsátil", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247295/106._Dor_puls%C3%A1til_rd5ay2.mp4" },
+    { "id": "6", "text": "Profunda", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247296/107._Dor_profunda_taocjz.mp4" },
+    { "id": "7", "text": "Superficial", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247297/108._Dor_superficial_cvntl6.mp4" },
+    { "id": "8", "text": "Lancinante", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247308/109._Dor_lancinante_d6rkxe.mp4" },
+    { "id": "9", "text": "Em choque", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247328/114._Dor_em_choque_rdqeop.mp4" },
     { 
         "id": "10", 
         "text": "Cólica",
+        "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247336/116._C%C3%B3lica_dxdfep.mp4",
         "subquestions": [
             { 
                 "id": "10-1", 
                 "text": "Menstrual?",
+                "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751247330/115._C%C3%B3lica_menstrual_blqniu.mp4",
                 "subquestions": [
-                    { "id": "10-1-1", "text": "Sim" },
-                    { "id": "10-1-2", "text": "Não" }
+                    { "id": "10-1-1", "text": "Sim", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245108/87._Sim_mdg9nr.mp4" },
+                    { "id": "10-1-2", "text": "Não", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245109/88._N%C3%A3o_bn3d3t.mp4" }
                 ]
             }
         ]

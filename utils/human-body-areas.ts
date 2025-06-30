@@ -62,7 +62,7 @@ export const AREAS = [
   { id: 'left-shin', title: 'Canela esquerda', shape: 'rect', coords: [110.5, 452, 151.5, 536.5] },
   { id: 'left-knee', title: 'Joelho esquerdo', shape: 'rect', coords: [109.5, 416, 151.5, 447.5] },
   { id: 'left-thigh', title: 'Coxa esquerda', shape: 'rect', coords: [117, 303, 152.5, 412.5] },
-  { id: 'testicles', title: 'Testículos', shape: 'rect', coords: [94.5, 321.5, 113, 342] },
+  { id: 'genitalia', title: 'Genitália', shape: 'rect', coords: [94.5, 321.5, 113, 342] },
   { id: 'right-elbow', title: 'Cotovelo direito', shape: 'rect', coords: [32, 221.5, 55, 249.5] },
   { id: 'right-wrist', title: 'Pulso direito', shape: 'rect', coords: [27.5, 297, 47, 314] },
   { id: 'right-forearm', title: 'Antebraço direito', shape: 'poly', coords: [

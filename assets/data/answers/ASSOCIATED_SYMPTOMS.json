@@ -1,10 +1,10 @@
 [
-    { "id": "1", "text": "Aumento na vontade de urinar" },
-    { "id": "2", "text": "Mancha na vista" },
-    { "id": "3", "text": "Sudorese" },
-    { "id": "4", "text": "Lacrimejamento" },
-    { "id": "5", "text": "Mal-estar" },
-    { "id": "6", "text": "Visão dupla" },
-    { "id": "7", "text": "Gases" },
-    { "id": "8", "text": "Zumbido" }
+    { "id": "1", "text": "Aumento na vontade de urinar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245586/122._Aumento_da_vontade_de_urinar_v5hh6z.mp4" },
+    { "id": "2", "text": "Mancha na vista", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245535/121._Mancha_na_vista_uvoqmi.mp4" },
+    { "id": "3", "text": "Sudorese", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245600/117._Sudorese_meamyz.mp4" },
+    { "id": "4", "text": "Lacrimejamento", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245610/118._Lacrimejamento_e8sdtq.mp4" },
+    { "id": "5", "text": "Mal-estar", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245611/119._Mal-estar_dopein.mp4" },
+    { "id": "6", "text": "Visão dupla", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245534/120._Vis%C3%A3o_dupla_aq0ljg.mp4" },
+    { "id": "7", "text": "Gases", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245598/124._Gases_u5uyzz.mp4" },
+    { "id": "8", "text": "Zumbido", "src": "https://res.cloudinary.com/dj3zmadzo/video/upload/v1751245587/123._Zumbido_gnpivh.mp4" }
 ]
