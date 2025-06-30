@@ -20,7 +20,7 @@ export const Questions = ({ route }: QuestionsProps) => {
       <ScrollView>
         <Text variant="titleMedium" style={styles.title}>{description}</Text>
 
-        <Sentences sentences={questions} onSentencePress={(s) => (
+        <Sentences sentences={questions} level={level} onSentencePress={(s) => (
             navigation.navigate(routes.VIDEO, {
               title: s.text,
               video: s.src,
@@ -29,7 +29,6 @@ export const Questions = ({ route }: QuestionsProps) => {
                   text: 'Prosseguir', 
                   props: { 
                     mode: 'contained', 
-                    icon: 'arrow-right',
                     onPress: () => navigation.navigate(
                       routes.PATIENT_ANSWERS, {
                         questionTitle: s.text,

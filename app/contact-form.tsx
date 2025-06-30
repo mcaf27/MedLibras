@@ -1,3 +1,4 @@
+import { Container } from '@/components/container';
 import type { ConsultationStackParamList } from '@/types/stacks';
 import * as routes from '@/utils/routes';
 import { toLevel } from '@/utils/routing';
@@ -7,7 +8,6 @@ import type { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 import { Button, TextInput, useTheme } from 'react-native-paper';
-import { Container } from '../components/container';
 
 type ConsultationNav = NativeStackNavigationProp<ConsultationStackParamList>;
 

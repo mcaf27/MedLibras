@@ -21,6 +21,8 @@ export const Video = ({ route }: VideoProps) => {
     player.play();
   }, [player]);
 
+  console.log(buttons);
+
   return (
     <Container>
       <Text variant="titleMedium" style={styles.title}>{title}</Text>

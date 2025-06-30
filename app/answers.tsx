@@ -75,7 +75,7 @@ export const Answers = ({ route }: AnswersProps) => {
 
 const styles = StyleSheet.create({
   input: { marginVertical: 5 },
-  chip: { marginVertical: 6 },
+  chip: {marginVertical: 6 },
   row: {
     alignItems: "center",
     flexDirection: "row",

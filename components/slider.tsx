@@ -9,7 +9,7 @@ interface SliderProps {
   discrete?: boolean;
 }
 
-export default function Slider({ minValue, maxValue, discrete }: SliderProps) {
+export function Slider({ minValue, maxValue, discrete }: SliderProps) {
   const [value, setValue] = useState(minValue);
   const theme = useTheme();
 

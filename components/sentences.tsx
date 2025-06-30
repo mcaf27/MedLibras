@@ -1,11 +1,11 @@
+import { CalendarWidget } from '@/components/calendar';
+import { BodyOverlay } from '@/components/human-body';
+import { Slider } from '@/components/slider';
 import { DOCTOR_QUESTIONS } from '@/utils/routes';
 import { ConsultationNav, toLevel } from '@/utils/routing';
 import { useNavigation } from '@react-navigation/native';
 import { ScrollView, StyleSheet, View } from 'react-native';
 import { Button, Card } from 'react-native-paper';
-import { CalendarWidget } from './calendar';
-import { BodyOverlay } from './human-body';
-import Slider from './slider';
 
 export interface Sentence {
   text: string;
@@ -29,7 +29,7 @@ export const Sentences = ({ sentences, onSentencePress, level }: SentencesProps)
       {sentences.map((s) => (s.widget) ? (
         <View key={s.id} style={styles.widgetContainer}>
           <WidgetMapper widgetName={s.widget} />
-          <Button icon="arrow-right" mode="contained" onPress={() => navigation.navigate(DOCTOR_QUESTIONS, toLevel(level))}>
+          <Button mode="contained" onPress={() => navigation.navigate(DOCTOR_QUESTIONS, toLevel(level))}>
             Prosseguir
           </Button>
         </View>
